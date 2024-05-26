@@ -781,6 +781,7 @@ Globals Ends
 }
 
 .about-section .skills .skill-item p {
+  text-align: center;
   font-size: 16px;
   color: var(--text-black-600);
   text-transform: capitalize;
