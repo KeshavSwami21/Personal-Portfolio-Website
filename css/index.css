@@ -642,7 +642,7 @@ Globals Ends
 .home-section .home-img .img-box img {
   width: 100%;
   border-radius: 50%;
-  border: 10px solid transparent;
+  /* border: 10px solid transparent; */
 }
 
 /* --------------------
@@ -672,7 +672,7 @@ Globals Ends
 
 .about-section .about-img .img-box img {
   width: 100%;
-  border: 10px solid transparent;
+  /* border: 10px solid transparent; */
   border-radius: 5px;
 }
 
